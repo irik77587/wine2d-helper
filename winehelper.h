@@ -1,3 +1,4 @@
+#define wcslen lstrlenW
 
 using WINE_ORIG_ID2D1Factory          = ID2D1Factory;
 using WINE_ORIG_ID2D1RenderTarget     = ID2D1RenderTarget;
